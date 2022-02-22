@@ -9,7 +9,7 @@ const nuevoNum = "que onda";
 // Crea una variable booleana:
 const nuevoBool = null;
 
-// Resuelve el siguiente problema matemático:
+// Resuelve el siguiente problema matemático:https://
 const nuevaResta = 10 - null === 5;
 
 // Resuelve el siguiente problema matemático:
